@@ -37,8 +37,8 @@ The frontend expects the API at `http://localhost:8000` and allows CORS from `ht
 Create `server/.env`:
 ```
 GEMINI_API_KEY=your_key_here
-AGENT_PLANNER=1
-AGENT_MAX_STEPS=3
+AGENT_PLANNER=
+AGENT_MAX_STEPS=
 ```
 
 Optional:
