@@ -1,4 +1,4 @@
-# Business AI Agent
+# Data Analysis Agent
 
 A full-stack analytics assistant that lets teams chat with their data, generate executive-ready reports, and auto-build dashboards per conversation.
 
